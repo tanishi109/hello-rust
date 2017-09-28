@@ -1,0 +1,9 @@
+[package]
+name = "capture"
+version = "0.1.0"
+authors = ["tanishi109 <hayakawa@goodpatch.com>"]
+
+[dependencies]
+
+scrap = "0.3.0"
+image = "^0"
